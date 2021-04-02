@@ -3,7 +3,7 @@
 #endif
 #include <iostream>
 using namespace std;
-
+// test
 bool DirectoryExists(const char* dirName) {
   DWORD attribs = ::GetFileAttributesA(dirName);
   if (attribs == INVALID_FILE_ATTRIBUTES) {
