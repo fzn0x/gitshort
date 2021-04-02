@@ -21,3 +21,5 @@ gitcm will add all the new files and changed files by default.
 ```bash
 gitcm <commit message> <the last argument is the branch name>
 ```
+
+Download the executable files here : [GitShort Github](https://github.com/fauzan121002/gitshort/releases/tag/1.0.0)
