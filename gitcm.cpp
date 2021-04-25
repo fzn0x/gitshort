@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
 			cmcmd += "\"";
 			cmcmd += cmmsg;
 			cmcmd += "\"";
-			cout << "Commit message: " << cmcmd << endl;
+			cout << "Commit message: " + cmcmd << endl;
 		
 			pscmd += branchname;
 			
